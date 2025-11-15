@@ -1,0 +1,5 @@
+{
+  "name": "AI SVG Converter",
+  "description": "An AI-assisted image converter that transforms PNG and JPG images into SVG format. Users can describe the desired SVG output, and the AI assistant provides guidance, suggestions, and presets like logos, icons, and favicons.",
+  "requestFramePermissions": []
+}
